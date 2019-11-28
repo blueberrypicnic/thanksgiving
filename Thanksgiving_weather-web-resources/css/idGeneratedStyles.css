@@ -75,11 +75,18 @@ p {
 	text-transform:none;
 	widows:1;
 }
+
+cite {
+	font-family: Arial;
+	font-size: 75%;
+}
+
 span.CharOverride-1 {
 	font-family:"Franklin Gothic Demi", sans-serif;
 	font-style:normal;
 	font-weight:bold;
 }
+
 span.CharOverride-2 {
 	font-style:italic;
 	font-weight:normal;
