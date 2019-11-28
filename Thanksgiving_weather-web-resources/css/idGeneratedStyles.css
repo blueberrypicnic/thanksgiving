@@ -9,6 +9,7 @@ body {
 div.Basic-Text-Frame {
 	border-style:solid;
 }
+
 p.author {
 	color:#d2232a;
 	font-family:Mina, serif;
@@ -30,7 +31,8 @@ p.author {
 	text-transform:none;
 	widows:1;
 }
-p.h1 {
+
+h1 {
 	color:#2a3683;
 	font-family:"Franklin Gothic Heavy", sans-serif;
 	font-size:300%;
@@ -51,7 +53,8 @@ p.h1 {
 	text-transform:none;
 	widows:1;
 }
-p.p {
+
+p {
 	color:#000000;
 	font-family:"Minion Pro", serif;
 	font-size:120%;
