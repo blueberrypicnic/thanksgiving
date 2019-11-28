@@ -1,0 +1,83 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.author {
+	color:#d2232a;
+	font-family:Mina, serif;
+	font-size:300%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.2;
+	margin-bottom:36px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.h1 {
+	color:#2a3683;
+	font-family:"Franklin Gothic Heavy", sans-serif;
+	font-size:300%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:36px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.p {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.CharOverride-1 {
+	font-family:"Franklin Gothic Demi", sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	font-style:italic;
+	font-weight:normal;
+}
